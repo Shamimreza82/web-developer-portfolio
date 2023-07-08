@@ -177,7 +177,24 @@ main section {
  footer {
     margin-top: 100px;
     display: flex;
+    gap: 100px;
     background: #FFF8F3;
     padding: 130px 200px;
 
  }
+
+ .footer-colume {
+    width: 50%;
+ }
+
+ .contact input, textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: antiquewhite;
+    border: 0;
+    border-radius: 5px;
+    width: 100%;
+
+ }
+ .contact
